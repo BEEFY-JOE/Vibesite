@@ -33,11 +33,11 @@ ul {
 }
 
 li {
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
     float: left;
 	align-self: stretch;
 	margin-left: 0.2%;
 	margin-right:0.2%;
-	font-stretch: ;
 }
 
 li a {
