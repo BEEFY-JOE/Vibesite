@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en-US">
+	<title>Vibe Sensei</title>
+	
+	<head>
+		<link rel="stylesheet" type="text/css" href="mainStyle.css">
+	</head>
+	
+	
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<body>
+			
+			<!--Navbar Section of the Body-->
+			<ul class="topnav">
+				<li class="vibeHeadImgMargin"><img class="vibeHeaderImage" src="Resources/images/vibeHeader.png"></li>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="index.html">About Me</a></li>
+				<li><a href="index.html">Music</a></li>
+				<li><a href="index.html">Merch</a></li>
+				<li><a href="index.html">Portfolio</a></li>
+				<li><a href="index.html">Photos</a></li>
+				<li><a href="index.html">Contact Me!</a></li>
+			</ul>
+			
+			<!--	This area is the center of 
+					the screen and what will display
+					the most important content       -->
+			<div class="contentArea">
+				
+					<!-- Slideshow container -->
+					<!-- Slideshow container -->
+						<div class="slideshow-container">
+
+						  <!-- Full-width images with number and caption text -->
+						  <div class="mySlides fade">
+							<img src="Resources/images/sp404sx-with-turntable.jpg" style="width:100%">
+							<div class="text">Caption Text</div>
+						  </div>
+
+						  <div class="mySlides fade">
+							<img src="Resources/images/cassetteTape.jpg" style="width:100%">
+							<div class="text">Caption Two</div>
+						  </div>
+
+						  <div class="mySlides fade">
+							<img src="Resources/images/vibeFace.jpg" style="width:100%">
+							<div class="text">Caption Three</div>
+						  </div>
+							
+						</div>
+			</div>
+				<br>
+				<!--this is the embeded twitter timeline from my Artist twitter profile-->
+			<div class="twitterArea">
+				<aside class="twitterArea">
+					<a class="twitter-timeline" data-width="333" data-height="775" data-theme="dark" data-link-color="#FAB81E" 			href="https://twitter.com/vibe_sensei?ref_src=twsrc%5Etfw">Tweets by vibe_sensei</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
+				</aside>
+			</div>
+			
+			
+			<hr>
+			
+			<!--This is the Footer of the page that will contain all the links to 
+			every location of the site and copyright information as well as contact info -->
+			<div class="footerArea">
+				<p>This will be the footer area</p>
+			</div>
+		</body>
+	
+	
+	<!--This is the javascript portion of the code-->
+		<script>
+			var slideIndex = 0;
+			showSlides();
+
+			function showSlides() {
+				var i;
+				var slides = document.getElementsByClassName("mySlides");
+				for (i = 0; i < slides.length; i++) {
+					slides[i].style.display = "none"; 
+				}
+				slideIndex++;
+				if (slideIndex > slides.length) {slideIndex = 1} 
+				slides[slideIndex-1].style.display = "block"; 
+				setTimeout(showSlides, 7000); // Change image every 7 seconds
+			} 
+
+
+		</script>
+</html> 
