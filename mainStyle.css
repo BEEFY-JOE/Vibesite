@@ -76,6 +76,10 @@ aside {
 	margin-top: 36px;
 }
 
+.footerArea {
+	position: absolute;
+	z-index: 1;
+}
 
 
 /*This starts the imported css for the slideshow*/
