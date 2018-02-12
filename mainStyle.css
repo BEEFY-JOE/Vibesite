@@ -81,6 +81,12 @@ aside {
 	z-index: 1;
 }
 
+.bannerText {
+	font-size: 18pt;
+	opacity: 80%;
+	
+}
+
 
 /*This starts the imported css for the slideshow*/
 * {box-sizing:border-box}
