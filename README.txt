@@ -3,37 +3,17 @@ html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
-This is Helios, a brand new site template for HTML5 UP. It's clean, modern, and designed
-to take advantage of larger (well, wider) displays while still being capable of gracefully
-scaling down to fit all manner of smaller ones.
+This free Helios website base provided by HTML5 UP has been modified by Joseph Berardis, computer science student at Mass. College of Liberal Arts. 
 
-Demo images* courtesy of Michael Domaradzki, an awesome photographer I met over at
-deviantART. Check out his portfolio here:
+I have created a webpage for my personal music production going under my psudynm Vibe Sensei. 
 
-http://md.photomerchant.net/
+The webpage makes extensive use of the formating provided in the Helios theme while also making custom tweaks to the formating when nescessary to fit embeded external content onto the webpage.
 
-(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
-and/or use any of Michaels's work without his explicit permission!)
+Embeded content is what makes up a large part of the website as a whole and has been incorported from my social media sites and music sharing sites. 
 
-AJ
-aj@lkn.io | @ajlkn
+In hosting this site on the net I hope to create a better platform for myself to communicate with my fan base and have a professional splash page for collaborators and clients to get to know me from. 
 
+Vibe Out.
 
-Credits:
-
-	Demo Images:
-		Michael Domaradzki (md.photomerchant.net)
-
-	Icons:
-		Font Awesome (fortawesome.github.com/Font-Awesome)
-
-	Other:
-		jQuery (jquery.com)
-		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-		CSS3 Pie (css3pie.com)
-		background-size polyfill (github.com/louisremi)
-		Respond.js (j.mp/respondjs)
-		jquery.dropotron (@ajlkn)
-		jquery.scrolly (@ajlkn)
-		jquery.onvisible (@ajlkn)
-		Skel (skel.io)
+-Joseph Berardis
+2018-4-15
